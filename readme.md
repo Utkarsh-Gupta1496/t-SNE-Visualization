@@ -12,5 +12,5 @@ This Repository Demonstrate how to implement t-SNE Scatter plot for a MNIST Clas
 
 
 **t-SNE Visualization for Fully Connected Layer 2 :**
-![](/images/output4.PNG
-![](/images/output5.PNG )
+![](/images/output4.PNG)
+![](/images/output5.PNG)
